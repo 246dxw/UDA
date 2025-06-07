@@ -56,17 +56,57 @@ This repository is used to collect the latest papers and codes on unsupervised d
 
 ### 2024
 
-| Paper Title | Link | Code | Tags |
-| ----------- | ---- | ---- | ---- |
-|             |      |      |      |
-|             |      |      |      |
-|             |      |      |      |
-|             |      |      |      |
-|             |      |      |      |
-|             |      |      |      |
-|             |      |      |      |
-|             |      |      |      |
-|             |      |      |      |
+| Paper Title                                                  | Link         | Code | Tags |
+| ------------------------------------------------------------ | ------------ | ---- | ---- |
+| Domain-Agnostic Mutual Prompting for Unsupervised Domain Adaptation | [CVPR2024]() |      |      |
+| DiffusionGAN3D: Boosting Text-guided 3D Generation and Domain Adaptation by Combining 3D GANs and Diffusion Priors | [CVPR2024]() |      |      |
+| Unified Language-driven Zero-shot Domain Adaptation          | [CVPR2024]() |      |      |
+| Parameter Efficient Self-Supervised Geospatial Domain Adaptation | [CVPR2024]() |      |      |
+| Open-Set Domain Adaptation for Semantic Segmentation         | [CVPR2024]() |      |      |
+| A Versatile Framework for Continual Test-Time Domain Adaptation: Balancing Discriminability and Generalizability | [CVPR2024]() |      |      |
+| Discriminative Pattern Calibration Mechanism for Source-Free Domain Adaptation | [CVPR2024]() |      |      |
+| Active Domain Adaptation with False Negative Prediction for Object Detection | [CVPR2024]() |      |      |
+| Universal Semi-Supervised Domain Adaptation by Mitigating Common-Class Bias | [CVPR2024]() |      |      |
+| Unsupervised Video Domain Adaptation with Masked Pre-Training and Collaborative Self-Training | [CVPR2024]() |      |      |
+| MAPSeg: Unified Unsupervised Domain Adaptation for Heterogeneous Medical Image Segmentation Based on 3D Masked Autoencoding and Pseudo-Labeling | [CVPR2024]() |      |      |
+| Source-Free Domain Adaptation with Frozen Multimodal Foundation Model | [CVPR2024]() |      |      |
+| Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation | [CVPR2024]() |      |      |
+| Learning CNN on ViT: A Hybrid Model to Explicitly Class-specific Boundaries for Domain Adaptation | [CVPR2024]() |      |      |
+| Boosting Object Detection with Zero-Shot Day-Night Domain Adaptation | [CVPR2024]() |      |      |
+| Unveiling the Unknown: Unleashing the Power of Unknown to Known in Open-Set Source-Free Domain Adaptation | [CVPR2024]() |      |      |
+| LEAD: Learning Decomposition for Source-free Universal Domain Adaptation | [CVPR2024]() |      |      |
+| Bridging the Synthetic-to-Authentic Gap: Distortion-Guided Unsupervised Domain Adaptation for Blind Image Quality Assessment | [CVPR2024]() |      |      |
+| Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection | [CVPR2024]() |      |      |
+| Understanding and Improving Source-free Domain Adaptation from a Theoretical Perspective | [CVPR2024]() |      |      |
+| Principled Federated Domain Adaptation: Gradient Projection and Auto-Weighting | [ICLR2024]() |      |      |
+| Can We Evaluate Domain Adaptation Models Without Target-Domain Labels? | [ICLR2024]() |      |      |
+| SF(DA)^2: Source-free Domain Adaptation Through the Lens of Data Augmentation | [ICLR2024]() |      |      |
+| Few-shot Hybrid Domain Adaptation of Image Generator         | [ICLR2024]() |      |      |
+| Source-Free and Image-Only Unsupervised Domain Adaptation for Category Level Object Pose Estimation | [ICLR2024]() |      |      |
+| Memory-Assisted Sub-Prototype Mining for Universal Domain Adaptation | [ICLR2024]() |      |      |
+| Gradual Domain Adaptation via Gradient Flow                  | [ICLR2024]() |      |      |
+| Batch Singular Value Polarization and Weighted Semantic Augmentation for Universal Domain Adaptation | [ICML2024]() |      |      |
+| Bayesian Power Steering: An Effective Approach for Domain Adaptation of Diffusion Models | [ICML2024]() |      |      |
+| Category-Aware Active Domain Adaptation                      | [ICML2024]() |      |      |
+| CauDiTS: Causal Disentangled Domain Adaptation of Multivariate Time Series | [ICML2024]() |      |      |
+| Differentially Private Domain Adaptation with Theoretical Guarantees | [ICML2024]() |      |      |
+| Getting the most out of your tokenizer for pre-training and domain adaptation | [ICML2024]() |      |      |
+| IW-GAE: Importance weighted group accuracy estimation for improved calibration and model selection in unsupervised domain adaptation | [ICML2024]() |      |      |
+| Pairwise Alignment Improves Graph Domain Adaptation          | [ICML2024]() |      |      |
+| Pseudo-Calibration: Improving Predictive Uncertainty Estimation in Unsupervised Domain Adaptation | [ICML2024]() |      |      |
+| SuDA: Support-based Domain Adaptation for Sim2Real Hinge Joint Tracking with Flexible Sensors | [ICML2024]() |      |      |
+| Unsupervised Domain Adaptation for Anatomical Structure Detection in Ultrasound Images | [ICML2024]() |      |      |
+|                                                              |              |      |      |
+|                                                              |              |      |      |
+|                                                              |              |      |      |
+|                                                              |              |      |      |
+|                                                              |              |      |      |
+|                                                              |              |      |      |
+|                                                              |              |      |      |
+|                                                              |              |      |      |
+|                                                              |              |      |      |
+|                                                              |              |      |      |
+|                                                              |              |      |      |
 
 
 
@@ -80,6 +120,16 @@ This repository is used to collect the latest papers and codes on unsupervised d
 |             |      |      |      |
 |             |      |      |      |
 |             |      |      |      |
+|             |      |      |      |
+|             |      |      |      |
+|             |      |      |      |
+
+
+
+### Before
+
+| Paper Title | Link | Code | Tags |
+| ----------- | ---- | ---- | ---- |
 |             |      |      |      |
 |             |      |      |      |
 |             |      |      |      |
@@ -130,6 +180,14 @@ This repository is used to collect the latest papers and codes on unsupervised d
 |             |      |      |      |
 |             |      |      |      |
 |             |      |      |      |
+|             |      |      |      |
+|             |      |      |      |
+|             |      |      |      |
+
+### Before
+
+| Paper Title | Link | Code | Tags |
+| ----------- | ---- | ---- | ---- |
 |             |      |      |      |
 |             |      |      |      |
 |             |      |      |      |
