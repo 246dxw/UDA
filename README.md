@@ -12,17 +12,17 @@ This repository is used to collect the latest papers and codes on unsupervised d
 
 ### 2025
 
-| Paper Title                                                  | Paper Link                                              | Code                                         | Tags   |
-| ------------------------------------------------------------ | ------------------------------------------------------- | -------------------------------------------- | ------ |
-| Multi-Granularity Class Prototype Topology Distillation for Class-Incremental Source-Free Unsupervised Domain Adaptation | [CVPR 2025](https://openreview.net/forum?id=Bkpag7ixlL) | [GROTO](https://github.com/dengpeihua/GROTO) | SFUDA, |
-|                                                              |                                                         |                                              |        |
-|                                                              |                                                         |                                              |        |
-|                                                              |                                                         |                                              |        |
-|                                                              |                                                         |                                              |        |
-|                                                              |                                                         |                                              |        |
-|                                                              |                                                         |                                              |        |
-|                                                              |                                                         |                                              |        |
-|                                                              |                                                         |                                              |        |
+| Paper Title                                                  | Paper Link                                             | Code                                         | Tags   |
+| ------------------------------------------------------------ | ------------------------------------------------------ | -------------------------------------------- | ------ |
+| Multi-Granularity Class Prototype Topology Distillation for Class-Incremental Source-Free Unsupervised Domain Adaptation | [CVPR2025](https://openreview.net/forum?id=Bkpag7ixlL) | [GROTO](https://github.com/dengpeihua/GROTO) | SFUDA, |
+|                                                              |                                                        |                                              |        |
+|                                                              |                                                        |                                              |        |
+|                                                              |                                                        |                                              |        |
+|                                                              |                                                        |                                              |        |
+|                                                              |                                                        |                                              |        |
+|                                                              |                                                        |                                              |        |
+|                                                              |                                                        |                                              |        |
+|                                                              |                                                        |                                              |        |
 
 
 
