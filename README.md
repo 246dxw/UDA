@@ -1,6 +1,6 @@
 # Unsupervised Domain Adaptation
 
-This repository is used to collect the latest papers and codes on unsupervised domain adaptation for scientific research purposes
+This repository is used to collect the latest papers and codes on unsupervised domain adaptation for scientific research purposes (because there are too few papers on unsupervised domain adaptation, I have collected all the papers related to domain adaptation together)
 
 - [Unsupervised Domain Adaptation](#Unsupervised-Domain-Adaptation)
   - [Conference Papers](#Conference-Paepers)
